@@ -1,4 +1,4 @@
-# social-network-analysis
+
 # Social Network Data Analysis with Python
 
 This project simulates how platforms like Facebook or LinkedIn recommend **friends** and **pages** to users, using **JSON data** and Python.  
