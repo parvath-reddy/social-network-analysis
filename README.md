@@ -16,11 +16,8 @@ It covers **data cleaning, analysis, and recommendation algorithms** built from 
 
 social-network-analysis/
 │── data/ # Datasets (main + cleaned)
-│── notebooks/ # Jupyter notebook with analysis
-│── src/ # Python scripts (modular code)
 │── results/ # Outputs and screenshots
 │── README.md # Documentation
-│── requirements.txt # Dependencies
 
 
 
