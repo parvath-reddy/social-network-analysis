@@ -1,0 +1,7 @@
+# Core
+jupyter
+notebook
+
+# Data handling
+pandas
+numpy
